@@ -1,7 +1,7 @@
 function flag=LMI_CDC17_prop1(a,dL,dR,r,h,etaM,OmegaM,L,alpha0,alpha1)
 % This MATLAB program checks the feasibility of LMIs from Proposition 1 of the paper 
 % A. Selivanov and E. Fridman, "Delayed boundary control of a heat equation under discrete-time point measurements," 
-% in 56th IEEE Conference on Decision and Control, 2017.
+% in 56th IEEE Conference on Decision and Control, 2017, pp. 1248–1253.
 
 % The program uses YALMIP parser (http://users.isy.liu.se/johanl/yalmip/)
 
