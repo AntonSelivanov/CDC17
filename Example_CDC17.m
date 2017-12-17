@@ -1,6 +1,6 @@
 % This MATLAB program checks the feasibility of LMIs from Proposition 1 of the paper 
 % A. Selivanov and E. Fridman, "Delayed boundary control of a heat equation under discrete-time point measurements," 
-% in 56th IEEE Conference on Decision and Control, 2017.
+% in 56th IEEE Conference on Decision and Control, 2017, pp. 1248–1253.
 
 a=10;                       % reaction coefficient in (1)
 dL=1; dR=0;                 % boundary conditions: Dirichlet on the left, Neumann on the right 
